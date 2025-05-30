@@ -72,7 +72,7 @@ Remove any of these if they dont match your project, or add more if you need to.
 2. Invite you new bot with admin permissions in your discord server
 3. Clone the repo
    ```sh
-   git clone https://github.com/vannsoko/SentimentalAnalyserBot.git
+   git clone https://github.com/vannsoko/SentimentAnalysisDiscordBot.git
    ```
 4. Renaming .env.exemple to .env
 5. Enter the needed env variables
