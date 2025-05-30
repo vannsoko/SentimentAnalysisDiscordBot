@@ -5,10 +5,9 @@
 
 
 
-<h3 align="center">Ai Sentimental Analyser</h3>
+<h3 align="center">Sentimental Analyser for Discor messages</h3>
 
-  <p align="center">
-    Analysing the author's mood of discord messages 
+  <p align="center"> 
     <br />
    
   </p>
@@ -41,8 +40,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Discord bot performing sentiment analysis on messages and labeling them into 28 different categories and storing the results using Mongo-DB.
 
-Discord bot analysing the sentiment in messages and storing the results in db
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
